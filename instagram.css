@@ -1,0 +1,142 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+
+body{
+    background-color: #FAFAFA;
+}
+
+img{
+ height: 80px;
+ width: 270px;
+ margin-left: 35px ;
+ margin-bottom: 32px;
+
+}
+.div1{
+width: 325px;
+border: 1px solid #dddd;
+padding: 20px;
+margin-left: 580px;
+background-color: #ffff;
+margin-top: 30px;
+
+}
+
+#username,#password{
+    width: 80%;
+    margin-left: 24px;
+    margin-top: 5px;
+    
+    border: 1px solid #dbdbdb;
+    padding: 13px ;
+    font-size: 14px;
+    background-color: #FAFAFA;
+    border-radius: 6px;
+
+}
+button{
+    width: 87%;
+    margin-left: 24px;
+    margin-top: 13px;
+    padding: 8px;
+    background-color:  #405DE6;;
+    box-sizing: border-box;
+    border: 0 solid #000;
+    border-radius: 6px;
+    font-size: 19px;
+    color: white;
+    margin-bottom: 10px;
+
+}
+label{
+    float: left;
+    margin-left: 10px;
+    font-size: 18px;
+    margin-top : -10px;
+    color: #8e8e8e;
+    
+    
+}
+#hr1{
+    float: left;
+    width: 115px;
+    margin-left: 20px;
+    background-color: #8b8b8b;
+    border: 1px solid #8b8b8b;
+    opacity: 0.7;
+
+  
+    
+  
+}
+#hr2{
+    float: left;
+    width: 115px;
+    margin-left: 13px;
+    background-color: #8b8b8b;
+    border: 1px solid #8b8b8b;
+    opacity: 0.7;
+    
+}
+.fa-facebook{
+    background-color: blue;
+    color: white;
+    padding: 3px 4px 0px 8px;
+    font-size: 16px;
+    margin-left: 75px;
+    margin-top: 15PX;
+
+}
+#a2{
+    float: right;
+    margin-right: 75px;
+    font-size: 16px;
+    margin-top: 15PX;
+    color: #385185;
+    font-weight: bold;
+}
+.pitambar{
+    margin-left: 120px;
+    font-size: 16px;
+    color: blue;
+  
+    
+}
+.div2{
+    border: 1px solid #dddd;
+    width: 315px;
+    margin-left: 580px;
+    padding: 25px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: bold;
+    font-size: 16px;
+}
+#dog{
+    color: blue;
+}
+
+#man{
+    margin-left: 730px;
+}
+
+.playstore{
+    height: 50px;
+    width: 150px;
+    float: right;
+    margin-right: 590px;
+   
+}
+.apple{
+    height: 50px;
+    width: 150px;
+    float: left;
+    margin-left: 590px;
+    margin-top: -1px;
+
+
+}
